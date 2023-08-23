@@ -3,7 +3,7 @@
 
 * Hello and Welcome to the README from Anarchy! 
 * This is a project that is being developed by me,
-* Azuka Styer, and is being developed for the purpose
+* Solomon Pattee, and is being developed for the purpose
 * of creating a C++ application that can be run on the web.
 
 This README is a work in progress and will be updated as the project progresses.
